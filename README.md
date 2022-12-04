@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gokul.elumalai12@gmail.com**
 
-- ⚡ Fun fact **I think I am something**
+- ⚡ Fun fact **I think I am way more funny!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
