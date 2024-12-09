@@ -1,13 +1,14 @@
-<!--[!MasterHead] (https://www.lambdatest.com/resources/images/Software-Test-Management.gif) -->
 <h1 align="center">Hi 👋, I'm Gokul A Junior Automation Tester</h1>
 <h3 align="center">A Dedicated (Manual/Automated) Testing Engineer from India.</h3>
 <!--img align="right" alt="coding" width="400" scr="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"-->
+<img align="right" width="400" height="290" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul2172001&label=Profile%20views&color=0e75b6&style=flat" alt="gokul2172001" /> </p>
 
-- 🌱 I’m currently learning **Rest API Testing (Automation) from Scratch-Rest Assured Java**
+- 🌱 I’m currently learning **DSA and Solving Leetcode Problems**
 
-- 📝 I regularly write articles on [https://medium.com/@gokul.elumalai12](https://medium.com/@gokul.elumalai12)
+- 📝 I regularly write my articles on [https://medium.com/@gokul.elumalai12](https://medium.com/@gokul.elumalai12)
 
 - 💬 Ask me about **Manual testing, Selenium, Playwright, Java, Cucumber, Typescript**
 
