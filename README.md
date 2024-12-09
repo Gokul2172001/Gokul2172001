@@ -1,4 +1,3 @@
-[!MasterHead] (https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 <h1 align="center">Hi 👋, I'm Gokul A Junior Automation Tester</h1>
 <h3 align="center">A Dedicated (Manual/Automated) Testing Engineer from India.</h3>
 <!--img align="right" alt="coding" width="400" scr="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"-->
