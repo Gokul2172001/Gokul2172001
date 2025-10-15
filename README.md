@@ -10,7 +10,7 @@
 
 - 📝 I regularly write my articles on [https://medium.com/@gokul.elumalai12](https://medium.com/@gokul.elumalai12)
 
-- 💬 Ask me about **Manual testing, Selenium, Playwright, Java, Cucumber, Typescript**
+- 💬 Ask me about **Manual testing, Selenium, Playwright, Java, Cucumber, Typescript, Cucumber**
 
 - 📫 How to reach me **gokul.elumalai12@gmail.com**
 
