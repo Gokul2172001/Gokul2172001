@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul An SDET</h1>
-<h3 align="center">A Dedicated Software Development Engineer in Test from India.</h3>
+<h3 align="center">A Dedicated Software Development Engineer in Test (SDET) from India.</h3>
 <!--img align="right" alt="coding" width="400" scr="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"-->
 <img align="right" width="400" height="290" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
 
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write my articles on [https://medium.com/@gokul.elumalai12](https://medium.com/@gokul.elumalai12)
 
-- 💬 Ask me about **Manual testing, Selenium, Playwright, Java, Cucumber, Typescript, Cucumber**
+- 💬 Ask me about **Automation testing, Selenium, Playwright, Java, Cucumber, Typescript, Rest Assured, JMeter**
 
 - 📫 How to reach me **gokul.elumalai12@gmail.com**
 
