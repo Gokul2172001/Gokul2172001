@@ -26,7 +26,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&repeat=false&width=300&height=40&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" />
 
 ```typescript
-const cleave = {
+const Gokul = {
   role        : "Software Development Engineer in Test (SDET)",
   experience  : "2.7 Years",
   location    : "Chennai, India 🇮🇳",
@@ -288,6 +288,6 @@ goal_2025:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0D1117&height=100&section=footer" />
 
-<sub>⚡ <i>Built with passion by Cleave · SDET · Test Automation Craftsman</i> ⚡</sub>
+<sub>⚡ <i>Built with passion by Gokul · SDET · Test Automation Craftsman</i> ⚡</sub>
 
 </div>
