@@ -16,7 +16,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Gokul2172001&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -30,9 +30,9 @@ const Gokul = {
   role        : "Software Development Engineer in Test (SDET)",
   experience  : "2.7 Years",
   location    : "Chennai, India 🇮🇳",
-  openTo      : ["Bangalore", "Hyderabad", "Pune", "Mumbai", "Singapore 🇸🇬", "Remote 🌍"],
+  openTo      : ["Chennai", "Bangalore", "Hyderabad", "Pune", "Mumbai", "Singapore 🇸🇬", "Remote 🌍"],
   currentFocus: ["Playwright Automation", "MCP Servers", "n8n Workflows", "API Testing"],
-  workMode    : "WFO | WFH | Hybrid — No preference!",
+  workMode    : "WFO | WFH | Hybrid",
   ctcExpected : "5 – 12 LPA (India) | SGD 4k–8k/month (Singapore)",
   funFact     : "I break apps before users do — and I love it 🔍",
 };
@@ -96,21 +96,21 @@ const Gokul = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokul2172001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokuk27200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF6B6B" />
+<img src="https://streak-stats.demolab.com?user=Gokul2172001&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul2172001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF6B6B" />
 
 </div>
 
@@ -123,7 +123,7 @@ const Gokul = {
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10&width=500" />
+<img src="https://leetcard.jacoblin.cool/Gokul-QA?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10&width=500" />
 
 </div>
 
@@ -152,8 +152,8 @@ const Gokul = {
 - ✅ Parallel test execution
 - ✅ Allure HTML reports with screenshots & videos on failure
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/playwright-ts-framework)
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/playwright-ts-framework?style=for-the-badge&color=FFA116)](https://github.com/YOUR_GITHUB_USERNAME/playwright-ts-framework)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001/playwright-ts-framework)
+[![Stars](https://img.shields.io/github/stars/Gokul2172001/playwright-ts-framework?style=for-the-badge&color=FFA116)](https://github.com/Gokul2172001/playwright-ts-framework)
 
 </details>
 
@@ -175,7 +175,7 @@ const Gokul = {
 - ✅ Performance benchmarks with JMeter
 - ✅ Integrated with CI pipeline
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/api-automation-suite)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001/api-automation-suite)
 
 </details>
 
@@ -196,7 +196,7 @@ const Gokul = {
 - ✅ Natural language test scenario creation
 - ✅ Integration with existing Playwright suites
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/mcp-test-intelligence)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001/mcp-test-intelligence)
 
 </details>
 
@@ -217,7 +217,7 @@ const Gokul = {
 - ✅ Auto-create Jira bug tickets on test failures
 - ✅ Email digest reports to stakeholders
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/n8n-qa-workflows)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001/n8n-qa-workflows)
 
 </details>
 
@@ -230,7 +230,7 @@ const Gokul = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gokul2172001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -254,7 +254,7 @@ reading:
   - "The Art of Software Testing — Glenford Myers"
   - "Clean Code — Robert C. Martin"
 
-goal_2025:
+goal_2026:
   - "Land a role at a top product company (5–12 LPA)"
   - "Contribute to an open-source QA framework"
   - "Build a personal automation portfolio that speaks louder than my resume"
@@ -269,11 +269,11 @@ goal_2025:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Naukri](https://img.shields.io/badge/Naukri-0A3D62?style=for-the-badge&logo=naukri&logoColor=white)](https://naukri.com/mnjuser/profile?id=YOUR_NAUKRI_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-e-207192202/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokul.elumalai12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gokul-QA/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@gokul.elumalai12)
 
 </div>
 
@@ -282,7 +282,7 @@ goal_2025:
 <!-- Footer Snake Animation -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Gokul2172001/Gokul2172001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
 
 <br/><br/>
 
