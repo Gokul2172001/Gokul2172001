@@ -28,7 +28,7 @@
 ```typescript
 const Gokul = {
   role        : "Software Development Engineer in Test (SDET)",
-  experience  : "2.7 Years",
+  experience  : "2.8 Years",
   location    : "Chennai, India 🇮🇳",
   openTo      : ["Chennai", "Bangalore", "Hyderabad", "Pune", "Mumbai", "Singapore 🇸🇬", "Remote 🌍"],
   currentFocus: ["Playwright Automation", "MCP Servers", "n8n Workflows", "API Testing"],
