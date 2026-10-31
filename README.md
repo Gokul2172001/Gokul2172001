@@ -11,7 +11,7 @@
 <!-- Status Badges -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-2.7%20Years-7C3AED?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3.3%20Years-7C3AED?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
