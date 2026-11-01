@@ -11,7 +11,7 @@
 <!-- Status Badges -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3.3%20Years-7C3AED?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-7C3AED?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -28,12 +28,11 @@
 ```typescript
 const Gokul = {
   role        : "Software Development Engineer in Test (SDET)",
-  experience  : "3.2 Years",
+  experience  : "3+ Years",
   location    : "Chennai, India 🇮🇳",
   openTo      : ["Chennai", "Bangalore", "Hyderabad", "Pune", "Mumbai", "Singapore 🇸🇬", "Remote 🌍"],
   currentFocus: ["Playwright Automation", "MCP Servers", "n8n Workflows", "API Testing"],
   workMode    : "WFO | WFH | Hybrid",
-  ctcExpected : "6 – 12 LPA (India) | SGD 4k–8k/month (Singapore)",
   funFact     : "I break apps before users do — and I love it 🔍",
 };
 ```
@@ -71,13 +70,13 @@ const Gokul = {
 ![MCP Server](https://img.shields.io/badge/MCP%20Server-00D9FF?style=for-the-badge&logo=anthropic&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**🔧 Tools & Methodology**
+**🔧 Tools & CI/CD**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **📋 Process & Methodology**
@@ -98,7 +97,7 @@ const Gokul = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokul2172001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokuk27200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul2172001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -136,12 +135,11 @@ const Gokul = {
 
 <br/>
 
-<!-- Project Card 1 -->
 <details>
 <summary><b>🎭 Playwright + TypeScript E2E Automation Framework</b></summary>
 <br/>
 
-> A production-grade end-to-end test automation framework built with Playwright and TypeScript.
+> An end-to-end test automation framework built with Playwright, TypeScript and Cucumber (BDD).
 
 **Tech Stack:** `Playwright` `TypeScript` `Cucumber/BDD` `GitHub Actions`
 
@@ -151,6 +149,7 @@ const Gokul = {
 - ✅ CI/CD integration with GitHub Actions
 - ✅ Parallel test execution
 - ✅ Allure HTML reports with screenshots & videos on failure
+- ✅ [Add result: e.g. N tests running in X min]
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001/playwright-ts-framework)
 [![Stars](https://img.shields.io/github/stars/Gokul2172001/playwright-ts-framework?style=for-the-badge&color=FFA116)](https://github.com/Gokul2172001/playwright-ts-framework)
@@ -159,12 +158,11 @@ const Gokul = {
 
 <br/>
 
-<!-- Project Card 2 -->
 <details>
 <summary><b>🔌 REST API Test Suite with REST Assured + Java</b></summary>
 <br/>
 
-> Comprehensive API automation suite covering CRUD, auth flows, schema validation, and performance.
+> API automation suite covering CRUD, auth flows, schema validation and basic performance checks.
 
 **Tech Stack:** `REST Assured` `Java` `TestNG` `JMeter` `Postman`
 
@@ -174,6 +172,7 @@ const Gokul = {
 - ✅ Data-driven testing with TestNG DataProvider
 - ✅ Performance benchmarks with JMeter
 - ✅ Integrated with CI pipeline
+- ✅ [Add result: e.g. N endpoints covered]
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul2172001/api-automation-suite)
 
@@ -181,12 +180,11 @@ const Gokul = {
 
 <br/>
 
-<!-- Project Card 3 -->
 <details>
 <summary><b>⚡ MCP Server for Test Automation Intelligence</b> <img src="https://img.shields.io/badge/UNIQUE-00D9FF?style=flat-square" /></summary>
 <br/>
 
-> An MCP (Model Context Protocol) server that integrates AI capabilities into the test automation workflow.
+> An MCP (Model Context Protocol) server that brings AI into the test automation workflow.
 
 **Tech Stack:** `MCP Server` `TypeScript` `Playwright` `Claude API`
 
@@ -202,7 +200,6 @@ const Gokul = {
 
 <br/>
 
-<!-- Project Card 4 -->
 <details>
 <summary><b>🔄 n8n Test Automation Workflow</b> <img src="https://img.shields.io/badge/UNIQUE-EA4B71?style=flat-square" /></summary>
 <br/>
@@ -243,11 +240,11 @@ const Gokul = {
 
 ```yaml
 learning:
+  - "Docker for test environments"
   - "Advanced Playwright patterns & custom fixtures"
   - "AI-powered testing with MCP Servers"
   - "Performance Engineering with k6 & Gatling"
   - "Contract Testing with Pact"
-  - "Kubernetes basics for test infrastructure"
   - "LeetCode — targeting 150+ problems"
 
 reading:
@@ -255,7 +252,7 @@ reading:
   - "Clean Code — Robert C. Martin"
 
 goal_2026:
-  - "Land a role at a top product company (5–12 LPA)"
+  - "Join a strong product team as an SDET"
   - "Contribute to an open-source QA framework"
   - "Build a personal automation portfolio that speaks louder than my resume"
 ```
